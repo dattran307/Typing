@@ -10,7 +10,7 @@ const difficultySelect = document.getElementById("difficulty");
 
 // List of words for game
 const words = [
-  "sigh",
+  "bayern",
   "tense",
   "airplane",
   "ball",
@@ -27,7 +27,7 @@ const words = [
   "quince",
   "eight",
   "feeble",
-  "admit",
+  "lewandowski",
   "drag",
   "loving",
 ];
